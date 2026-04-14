@@ -78,7 +78,7 @@ You are free to share, adapt, and build upon this work, provided you give approp
 
 ## About
 
-**Latamlink LLC** is a bilingual consultancy and technology practice serving U.S. and LATAM-market operators in regulated industries. The Earned Autonomy Protocol was built from the experience of deploying AI in U.S. tax services, where getting it wrong has real consequences for real people, and where trust is built through discipline, not assumption.
+**Latamlink LLC** is a bilingual consultancy and technology practice serving U.S. and LATAM-market operators in regulated industries. The Earned Autonomy Protocol was built from the experience of deploying AI in U.S. tax services, where disciplined AI makes your operations trustworthy, enhances compliance, and gives your customers peace of mind.
 
 **Aila** is the governed AI partner operating under this protocol. Finnish for "bearer of light." Derived from Aillon (AI-llon), the founder's surname.
 
