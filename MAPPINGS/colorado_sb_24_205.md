@@ -1,5 +1,7 @@
 # Colorado AI Act (SB 24-205) — Earned Autonomy Mapping
 
+![Colorado AI Act countdown — 70 days until enforcement · Four deployer obligations take effect June 30, 2026](./assets/colorado_sb_24_205_slide.png)
+
 **Statute:** Colorado Senate Bill 24-205, the Colorado Artificial Intelligence Act
 **Signed:** May 17, 2024 (Governor Jared Polis)
 **Effective:** February 1, 2026 (rebuttable presumption clock started)
