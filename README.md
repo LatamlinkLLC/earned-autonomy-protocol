@@ -59,9 +59,19 @@ The Cloud Security Alliance's Agentic Trust Framework, published February 2, 202
 
 The Earned Autonomy Protocol was operational seven weeks before CSA published. We did not cite CSA. They did not cite us. When practitioners and standards bodies arrive at the same principle independently, the principle is probably correct.
 
-## EU AI Act Alignment
+## Regulatory Alignment
 
-The Earned Autonomy Protocol natively satisfies the six deployer obligations under Article 26 of the EU AI Act (Regulation 2024/1689), enforceable August 2, 2026. The full mapping is available in the [white paper](https://intake.sentinelos.us/earned-autonomy).
+The Earned Autonomy Protocol maps natively against AI governance statutes in the jurisdictions where the reference implementation operates. The same four mechanisms meet the obligations in each framework; the mapping work is incremental, not structural.
+
+| Jurisdiction | Statute | Enforcement | Mapping |
+|---|---|---|---|
+| European Union | AI Act Article 26 (Regulation 2024/1689) | August 2, 2026 | [White Paper V2](https://intake.sentinelos.us/earned-autonomy) |
+| Colorado, USA | SB 24-205 (Colorado AI Act) | June 30, 2026 | [MAPPINGS/colorado_sb_24_205.md](./MAPPINGS/colorado_sb_24_205.md) |
+| Utah, USA | SB 149 (Artificial Intelligence Policy Act) | In effect since May 1, 2024 | *Coming soon* |
+| Texas, USA | HB 149 (TRAIGA) | January 1, 2026 | *Coming soon* |
+| California, USA | AB 2013 (training data transparency) | January 1, 2026 | *Coming soon* |
+
+Additional jurisdictions are added as the regulatory matrix expands. Contributions and corrections welcome via issue or PR.
 
 ## White Paper
 
