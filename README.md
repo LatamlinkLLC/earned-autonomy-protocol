@@ -23,6 +23,13 @@ This is the opposite of how most AI deployments work. The default pattern is: de
 | February 2, 2026 | Cloud Security Alliance publishes Agentic Trust Framework (independent convergence) |
 | April 2026 | Anthropic Mythos sandbox escape validates the governance thesis |
 | April 2026 | White paper published: "Making AI Decisions Worth Automating" |
+| May 1, 2026 | White paper formally citable on SSRN |
+| May 27, 2026 | First multi-path Trust Genesis ceremony: 10 decision paths evidence-locked with Trust Composite Scores |
+| June 11, 2026 | Discipline 13 authored: verification rituals made model-independent |
+| July 1, 2026 | Reconciliation proof-of-life in the reference implementation: 20 of 20 account-months verified to the cent, hash-locked |
+| July 16, 2026 | Supervised-operator doctrine ruled: perception loop automated, action loop human-gated |
+| July 2026 | Match/Mismatch podcast live (episodes 1–3): the protocol's public reflection layer |
+| July 28, 2026 | Doctrine update v1.1: the Two Loops, constitutional vs. earned boundaries, the Thirteen Disciplines published |
 
 ## Key Concepts
 
@@ -41,6 +48,15 @@ Not all decisions require the same governance:
 ### Decision Log
 The audit trail that makes autonomy defensible. A decision-specific record: what was decided, by whom, what evidence was considered, what the outcome was.
 
+### The Perception–Action Split
+Not "automate everything" and not "gate everything" — split by loop. The **perception loop** (classify, reconcile, verify, flag) runs autonomously and continuously: it only produces claims, and claims are checkable. The **action loop** (move money, file with a government, contact a client, write to the book of record) binds the outside world and stays human-gated. Prove perception before wiring action. *(Implementation Notes, Note 5.)*
+
+### The Two Loops
+The task loop asks *"is the work right?"* The judgment loop asks *"is the deciding right — and who should hold which decision?"* Verified tasks generate evidence; the judgment loop spends that evidence to recalibrate standards and move the autonomy boundary. Nested, not parallel: an implementation that runs only the task loop has static autonomy; one that runs only the judgment loop grants scope on vibes. Lineage: double-loop learning (Argyris, 1977). *(Note 7.)*
+
+### Constitutional vs. Earned Boundaries
+Earned boundaries move on evidence. Constitutional invariants — money movement, government filings, unprompted client contact, credential entry — are not on the performance axis at all: they change only by explicit human ceremony, stated in plain words and logged, never as a side effect of a good streak. *(Note 6.)*
+
 ## The Seven EAI Laws
 
 The protocol operates under Externally Accountable Intelligence (EAI), built on seven non-negotiable laws:
@@ -52,6 +68,24 @@ The protocol operates under Externally Accountable Intelligence (EAI), built on 
 5. **Reversibility Is Mandatory.** All actions must be reversible or constrained to prevent irreversible harm.
 6. **Silence Is Success.** No action is preferable to uncertain action.
 7. **Accountability Exists Outside the Model.** Responsibility cannot be delegated to AI. Humans own outcomes.
+
+## The Thirteen Disciplines
+
+The operational layer beneath the laws — the habits the reference implementation runs every session. Disciplines 10–13 were added after this repo's first publication; the Implementation Notes carry the incidents that produced them.
+
+1. **Atomic Verification** — walk every boundary crossing; never declare "done" from the happy story.
+2. **Canary Pattern** — plant known-answer checks that scream when the system drifts.
+3. **Idiot-Proof Standard** — build so the tired operator cannot misuse it.
+4. **We Handle, Not Panic** — composure is part of the control system.
+5. **Three Places Mantra** — a fact is not durable until it lives in three independent places.
+6. **EAI Core Laws** — the seven laws above, held as a daily discipline.
+7. **Inspect Before Propose** — read the artifact before proposing changes to it.
+8. **Ground Before Synthesize** — cite the live source in the same turn as the claim.
+9. **Write As You Go** — persist state when it changes, not at session close *(Note 2)*.
+10. **Narrative Coherence Is A Red Flag** — smooth prose about system state means nothing was checked; if claims outnumber fresh lookups, you synthesized instead of grounded.
+11. **Reach Via The Wired System** — the agent's reach is the system's credentials and connectors, not one chat's tool list; "I don't have access" is usually a claim about the wrong layer.
+12. **Commits Are The Notebook** — the log is the only medium that cannot be lost; every commit is written for a zero-context successor (what, why, where-else, next).
+13. **Verification Rituals** — model-independent: a weaker model following a strong ritual beats a strong model improvising *(Note 4)*.
 
 ## Independent Convergence
 
