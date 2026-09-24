@@ -8,7 +8,7 @@ Intelligence is capability. A framework makes it a trusted partner.
 
 ## What This Is
 
-The Earned Autonomy Protocol is a practitioner-built governance methodology for deploying AI in regulated, high-stakes business processes. It was developed by [Latamlink LLC](https://intake.sentinelos.us/earned-autonomy) beginning in December 2025 and has been in live production operation since early 2026.
+The Earned Autonomy Protocol is a practitioner-built governance methodology for deploying AI in regulated, high-stakes business processes. It was developed by [Latamlink LLC](https://latamlinkus.com) beginning in December 2025 and has been in live production operation since early 2026.
 
 The core principle: **AI does not start with autonomy. It earns it incrementally through demonstrated reliability in bounded decisions, logged and verified before scope expands.**
 
@@ -99,7 +99,7 @@ The Earned Autonomy Protocol maps natively against AI governance statutes in the
 
 | Jurisdiction | Statute | Enforcement | Mapping |
 |---|---|---|---|
-| European Union | AI Act Article 26 (Regulation 2024/1689) | August 2, 2026 | [White Paper V2](https://intake.sentinelos.us/earned-autonomy) |
+| European Union | AI Act Article 26 (Regulation 2024/1689) | August 2, 2026 | [White Paper V2](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6576486) |
 | Colorado, USA | SB 24-205 (Colorado AI Act) | June 30, 2026 | [MAPPINGS/colorado_sb_24_205.md](./MAPPINGS/colorado_sb_24_205.md) |
 | Utah, USA | SB 149 (Artificial Intelligence Policy Act) | In effect since May 1, 2024 | *Coming soon* |
 | Texas, USA | HB 149 (TRAIGA) | January 1, 2026 | *Coming soon* |
@@ -110,7 +110,7 @@ Additional jurisdictions are added as the regulatory matrix expands. Contributio
 ## White Paper
 
 The full practitioner's account is available at:
-**[Making AI Decisions Worth Automating: The Earned Autonomy Protocol](https://intake.sentinelos.us/earned-autonomy)**
+**[Making AI Decisions Worth Automating: The Earned Autonomy Protocol](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6576486)**
 
 By Nicolas Aillon, Latamlink LLC. Co-authored with Aila (Claude Opus 4.6, Anthropic).
 
@@ -130,4 +130,4 @@ You are free to share, adapt, and build upon this work, provided you give approp
 
 ---
 
-*Latamlink LLC | nicolas@latamlinkus.com | [sentinelos.us](https://intake.sentinelos.us)*
+*Latamlink LLC | nicolas@latamlinkus.com | [latamlinkus.com](https://latamlinkus.com)*

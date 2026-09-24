@@ -86,7 +86,7 @@ The Earned Autonomy Protocol is not a Colorado-specific framework. The same four
 - Colorado SB 24-205 — full text: https://leg.colorado.gov/bills/sb24-205
 - Colorado Revised Statutes §§ 6-1-1701 through 6-1-1707
 - Earned Autonomy Protocol — specification: https://github.com/LatamlinkLLC/earned-autonomy-protocol
-- White Paper V2 — "Making AI Decisions Worth Automating": https://intake.sentinelos.us/earned-autonomy
+- White Paper V2 — "Making AI Decisions Worth Automating": https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6576486
 - SSRN preprint: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6576486
 - Implementation notes: https://github.com/LatamlinkLLC/earned-autonomy-protocol/blob/main/IMPLEMENTATION_NOTES.md
 
